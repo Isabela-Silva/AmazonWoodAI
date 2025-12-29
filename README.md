@@ -1,14 +1,12 @@
-# TCC – Sistema de Identificação de Amostras
+# TCC – AmazonTreeAI
 
 Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) e é composto por um **back-end** e um **front-end**, organizados em pastas separadas.
 
 
 ## Estrutura do projeto
 
-
-
-api/ (Python / Flask)
-front/ (React)
+* api/ (Python / Flask)
+* front/ (React)
 
 
 
@@ -18,27 +16,24 @@ front/ (React)
 
 1. Acesse a pasta do back-end:
 
-cd api
+* cd api
 
 2. Execute a aplicação:
 
-python app.py
+* python app.py
 
 
 ### Front-end
 
 1. Acesse a pasta do front-end:
 
-cd front
+* cd front
 
 2. Inicie a aplicação:
 
-npm run dev
+* npm run dev
 
 
 ## Observações
-
-- É necessário ter o **Python** instalado para executar o back-end.
-- É necessário ter o **Node.js** instalado para executar o front-end.
 - As dependências do front-end devem estar instaladas antes da execução.
 
