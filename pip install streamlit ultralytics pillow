@@ -1,0 +1,9 @@
+pip install streamlit ultralytics pillow
+
+
+pip install flask flask-cors ultralytics pillow numpy
+
+pip install flask flask-cors numpy
+
+
+python app.py

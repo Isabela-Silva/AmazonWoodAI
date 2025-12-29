@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF4B4B" # Cor principal dos botões/links
+backgroundColor="#F0F2F6" # Cor de fundo da página
+secondaryBackgroundColor="#FFFFFF" # Cor de fundo dos containers
+textColor="#262730" # Cor do texto
+font="sans serif" # Tipografia padrão
