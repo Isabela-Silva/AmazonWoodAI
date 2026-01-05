@@ -1,4 +1,4 @@
-# TCC – AmazonTreeAI
+# TCC – AmazonWoodAI
 
 Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) e é composto por um **back-end** e um **front-end**, organizados em pastas separadas.
 
