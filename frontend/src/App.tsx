@@ -122,7 +122,7 @@ const App: React.FC = () => {
                 ))}
             </nav>
             <h1 className="text-white font-sans font-light text-5xl md:text-7xl text-center lg:text-8xl shadow-lg mb-1">Amazon<span className='text-amber-700 font-bold'>Wood</span>AI</h1>
-            <p className="text-gray-200 text-lg mb-8 text-center">Tecnologia e sabedoria ancestral para preservação da Amazônia.</p>
+            <p className="text-gray-200 text-lg mb-8 text-center">Tecnologia acessível para identificação de madeira.</p>
 
             <div className="bg-white p-4 md:p-8 rounded-3xl  font-sans font-normal shadow-2xl w-full mt-10 max-w-md text-center"
                 style={{ backgroundImage: `url(${bg})`, backgroundSize: 'cover' }}
